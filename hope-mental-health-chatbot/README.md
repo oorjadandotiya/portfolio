@@ -52,6 +52,10 @@ The application is deployed as a Flask web server with:
 
 ## Video Walkthrough
 
+
+https://github.com/user-attachments/assets/0c3cf0ec-9a5b-48dd-b809-fb9ff7764b59
+
+
 [Project Demo (MP4)](./hope-run-through.mp4)
 
 ## Learnings & Insights
