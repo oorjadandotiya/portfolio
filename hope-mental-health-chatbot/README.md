@@ -52,7 +52,7 @@ The application is deployed as a Flask web server with:
 
 ## Video Walkthrough
 
-![Project Demo](hope-mental-health-chatbot\hope-run-through.mp4)
+![Project Demo](./hope-run-through.mp4)
 
 ## Learnings & Insights
 
